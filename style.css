@@ -1,0 +1,66 @@
+body{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.logo{
+    height: 30px;
+  }
+.navbar{
+  background-color: #f0f5fc;
+}
+
+.navbar-brand{
+  color: #265073;
+  font-weight: bolder;
+}
+.feature-icon {
+    width: 4rem;
+    height: 4rem;
+    border-radius: 0.75rem;
+}
+.feature-icons{
+    height: 30px;
+}
+
+.carousel-inner{
+    margin-bottom: 0px;
+}
+
+.btn-primary{
+  background-color: #265073;
+  color: white;
+  border: 1px solid #265073;
+}
+
+.btn-primary:hover{
+  color: #265073;
+  border: 1px solid #265073;
+  background-color: white;
+}
+
+.btn-outline-secondary{
+  border: 1px solid #265073;
+  color: #265073;;
+}
+.btn-outline-secondary:hover{
+  background-color: #265073;
+  color: white;
+}
+
+.bg{
+  background-color: #265073;
+}
+
+.span-color{
+  color: #265073;
+}
+
+.icon-link{
+  color: #265073;
+  text-decoration: none;
+}
+
+.icon-link:hover{
+  color: #2d776a;
+  font-weight: bold;
+  font-style: italic;
+}
